@@ -1,5 +1,5 @@
-<a href="https://www.w3web.net/trigger-on-contact-to-update-a-account-custom-field/">Go to more details about this article__  <b><i>www.w3web.net</i></b></a><br/><br/>
-
+Go to more details about this article__ www.w3web.net 
+<br/><br/>
   trigger contactTriggerRollSummary on Contact (before insert, after insert, before update, after update) {
     
     List<Contact> contactList= new List<Contact>();
